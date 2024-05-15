@@ -1,4 +1,4 @@
-# UnityDemo
+![1](https://github.com/w159014462z/UnityDemo/assets/75423856/b6297fea-4410-4349-8d32-44396b6c96f2)# UnityDemo
 本仓库存放自己的Unity游戏作品
 
 ## 基于Unity引擎的童年桌游的电子复刻Demo
@@ -6,3 +6,8 @@
 
 链接：https://pan.baidu.com/s/1HzWczzzuEhlnjy6lciy4EQ 
 提取码：g4lz
+### 游戏主页视图 
+![游戏主页](https://github.com/w159014462z/UnityDemo/assets/75423856/c276b515-3a8d-4432-b448-c06a01859ad2)
+
+### 游玩界面视图
+![游戏界面](https://github.com/w159014462z/UnityDemo/assets/75423856/dbc66570-3dcd-41cf-8118-6ff9f828421a)
