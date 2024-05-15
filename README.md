@@ -10,4 +10,6 @@
 ![游戏主页](https://github.com/w159014462z/UnityDemo/assets/75423856/c276b515-3a8d-4432-b448-c06a01859ad2)
 
 ### 游玩界面视图
-![游戏界面](https://github.com/w159014462z/UnityDemo/assets/75423856/dbc66570-3dcd-41cf-8118-6ff9f828421a)
+![游戏界面1](https://github.com/w159014462z/UnityDemo/assets/75423856/3c216de2-7055-42b1-8da1-b8ca2f37fe21)
+
+![游戏测试界面](https://github.com/w159014462z/UnityDemo/assets/75423856/aa10dab9-1b4a-4f96-be4e-290d4f0a6adb)
