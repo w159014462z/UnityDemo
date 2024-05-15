@@ -1,4 +1,4 @@
-![1](https://github.com/w159014462z/UnityDemo/assets/75423856/b6297fea-4410-4349-8d32-44396b6c96f2)# UnityDemo
+# UnityDemo
 本仓库存放自己的Unity游戏作品
 
 ## 基于Unity引擎的童年桌游的电子复刻Demo
