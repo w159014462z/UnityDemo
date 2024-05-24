@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u684C\u9762\\\u6BD5\u4E1A\u8BBE\u8BA1\\Unity\u897F\u6E38\u6740bywz\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u6BD5\u4E1A\u8BBE\u8BA1\\Unity\u897F\u6E38\u6740bywz\\My project\\assets\\scripts\\gameon\\cardbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameon\\cardbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u6BD5\u4E1A\u8BBE\u8BA1\\Unity\u897F\u6E38\u6740bywz\\My project\\assets\\scripts\\gameon\\selectanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameon\\selectanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u6BD5\u4E1A\u8BBE\u8BA1\\Unity\u897F\u6E38\u6740bywz\\My project\\assets\\scripts\\gameon\\cardinfouimove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameon\\cardinfouimove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u6BD5\u4E1A\u8BBE\u8BA1\\Unity\u897F\u6E38\u6740bywz\\My project\\assets\\scripts\\gameon\\cardnordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameon\\cardnordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u6BD5\u4E1A\u8BBE\u8BA1\\Unity\u897F\u6E38\u6740bywz\\My project\\assets\\scripts\\gameon\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameon\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u6BD5\u4E1A\u8BBE\u8BA1\\Unity\u897F\u6E38\u6740bywz\\My project\\assets\\scripts\\gameon\\cardinfodisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameon\\cardinfodisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\\u684C\u9762\\\u6BD5\u4E1A\u8BBE\u8BA1\\Unity\u897F\u6E38\u6740bywz\\My project\\assets\\scripts\\gameon\\hpchanged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameon\\hpchanged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\\u684C\u9762\\\u6BD5\u4E1A\u8BBE\u8BA1\\unity\u897F\u6E38\u6740bywz\\my project\\assets\\scripts\\gameon\\enumtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameon\\enumtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\\u684C\u9762\\\u6BD5\u4E1A\u8BBE\u8BA1\\unity\u897F\u6E38\u6740bywz\\my project\\assets\\scripts\\switchscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\switchscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnumType.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u6BD5\u4E1A\u8BBE\u8BA1\\Unity\u897F\u6E38\u6740bywz\\My project\\Assets\\Scripts\\GameOn\\EnumType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameOn\\EnumType.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u6BD5\u4E1A\u8BBE\u8BA1\\Unity\u897F\u6E38\u6740bywz\\My project\\Assets\\Scripts\\GameOn\\EnumType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameOn\\EnumType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:13:24.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SwitchScene.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u6BD5\u4E1A\u8BBE\u8BA1\\Unity\u897F\u6E38\u6740bywz\\My project\\Assets\\Scripts\\SwitchScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SwitchScene.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u6BD5\u4E1A\u8BBE\u8BA1\\Unity\u897F\u6E38\u6740bywz\\My project\\Assets\\Scripts\\SwitchScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SwitchScene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:11:19.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CardInfoUIMove.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u6BD5\u4E1A\u8BBE\u8BA1\\Unity\u897F\u6E38\u6740bywz\\My project\\Assets\\Scripts\\GameOn\\CardInfoUIMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameOn\\CardInfoUIMove.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u6BD5\u4E1A\u8BBE\u8BA1\\Unity\u897F\u6E38\u6740bywz\\My project\\Assets\\Scripts\\GameOn\\CardInfoUIMove.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameOn\\CardInfoUIMove.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:11:11.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HpChanged.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u6BD5\u4E1A\u8BBE\u8BA1\\Unity\u897F\u6E38\u6740bywz\\My project\\Assets\\Scripts\\GameOn\\HpChanged.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameOn\\HpChanged.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u6BD5\u4E1A\u8BBE\u8BA1\\Unity\u897F\u6E38\u6740bywz\\My project\\Assets\\Scripts\\GameOn\\HpChanged.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameOn\\HpChanged.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwKYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:11:02.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SelectAnimation.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u6BD5\u4E1A\u8BBE\u8BA1\\Unity\u897F\u6E38\u6740bywz\\My project\\Assets\\Scripts\\GameOn\\SelectAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameOn\\SelectAnimation.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u6BD5\u4E1A\u8BBE\u8BA1\\Unity\u897F\u6E38\u6740bywz\\My project\\Assets\\Scripts\\GameOn\\SelectAnimation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameOn\\SelectAnimation.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:11:00.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u6BD5\u4E1A\u8BBE\u8BA1\\Unity\u897F\u6E38\u6740bywz\\My project\\Assets\\Scripts\\GameOn\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameOn\\GameController.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u6BD5\u4E1A\u8BBE\u8BA1\\Unity\u897F\u6E38\u6740bywz\\My project\\Assets\\Scripts\\GameOn\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameOn\\GameController.cs",
+              "ViewState": "AQIAAM4EAAAAAAAAAAArwNAEAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:10:40.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardButton.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u6BD5\u4E1A\u8BBE\u8BA1\\Unity\u897F\u6E38\u6740bywz\\My project\\Assets\\Scripts\\GameOn\\CardButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameOn\\CardButton.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u6BD5\u4E1A\u8BBE\u8BA1\\Unity\u897F\u6E38\u6740bywz\\My project\\Assets\\Scripts\\GameOn\\CardButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameOn\\CardButton.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAQwIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:10:18.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CardInfoDisplay.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u6BD5\u4E1A\u8BBE\u8BA1\\Unity\u897F\u6E38\u6740bywz\\My project\\Assets\\Scripts\\GameOn\\CardInfoDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameOn\\CardInfoDisplay.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u6BD5\u4E1A\u8BBE\u8BA1\\Unity\u897F\u6E38\u6740bywz\\My project\\Assets\\Scripts\\GameOn\\CardInfoDisplay.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameOn\\CardInfoDisplay.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAiwE0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:10:13.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CardNorData.cs",
+              "DocumentMoniker": "D:\\\u684C\u9762\\\u6BD5\u4E1A\u8BBE\u8BA1\\Unity\u897F\u6E38\u6740bywz\\My project\\Assets\\Scripts\\GameOn\\CardNorData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameOn\\CardNorData.cs",
+              "ToolTip": "D:\\\u684C\u9762\\\u6BD5\u4E1A\u8BBE\u8BA1\\Unity\u897F\u6E38\u6740bywz\\My project\\Assets\\Scripts\\GameOn\\CardNorData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameOn\\CardNorData.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwCAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:09:37.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
