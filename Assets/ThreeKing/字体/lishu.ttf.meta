@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 87b0a26efdf01f54ca06e5ee91c7e54e
+timeCreated: 1682314236
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: LiSu
+  fontNames:
+  - LiSu
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
